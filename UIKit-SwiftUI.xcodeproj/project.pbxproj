@@ -7,26 +7,26 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		3C1810752CEE51F5001F0728 /* UIKit-SwiftUI UIKit + SwiftUI UIKit + SwiftUI UIKit-SwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "UIKit-SwiftUI UIKit + SwiftUI UIKit + SwiftUI UIKit-SwiftUI.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3C1810752CEE51F5001F0728 /* UIKit-SwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "UIKit-SwiftUI.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		3C1810872CEE51F8001F0728 /* Exceptions for "UIKit-SwiftUI UIKit + SwiftUI UIKit + SwiftUI UIKit-SwiftUI" folder in "UIKit-SwiftUI UIKit + SwiftUI UIKit + SwiftUI UIKit-SwiftUI" target */ = {
+		3C1810872CEE51F8001F0728 /* Exceptions for "UIKit-SwiftUI" folder in "UIKit-SwiftUI" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = 3C1810742CEE51F5001F0728 /* UIKit-SwiftUI UIKit + SwiftUI UIKit + SwiftUI UIKit-SwiftUI */;
+			target = 3C1810742CEE51F5001F0728 /* UIKit-SwiftUI */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		3C1810772CEE51F5001F0728 /* UIKit-SwiftUI UIKit + SwiftUI UIKit + SwiftUI UIKit-SwiftUI */ = {
+		3C1810772CEE51F5001F0728 /* UIKit-SwiftUI */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				3C1810872CEE51F8001F0728 /* Exceptions for "UIKit-SwiftUI UIKit + SwiftUI UIKit + SwiftUI UIKit-SwiftUI" folder in "UIKit-SwiftUI UIKit + SwiftUI UIKit + SwiftUI UIKit-SwiftUI" target */,
+				3C1810872CEE51F8001F0728 /* Exceptions for "UIKit-SwiftUI" folder in "UIKit-SwiftUI" target */,
 			);
-			path = "UIKit-SwiftUI UIKit + SwiftUI UIKit + SwiftUI UIKit-SwiftUI";
+			path = "UIKit-SwiftUI";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -45,7 +45,7 @@
 		3C18106C2CEE51F5001F0728 = {
 			isa = PBXGroup;
 			children = (
-				3C1810772CEE51F5001F0728 /* UIKit-SwiftUI UIKit + SwiftUI UIKit + SwiftUI UIKit-SwiftUI */,
+				3C1810772CEE51F5001F0728 /* UIKit-SwiftUI */,
 				3C1810762CEE51F5001F0728 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -53,7 +53,7 @@
 		3C1810762CEE51F5001F0728 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3C1810752CEE51F5001F0728 /* UIKit-SwiftUI UIKit + SwiftUI UIKit + SwiftUI UIKit-SwiftUI.app */,
+				3C1810752CEE51F5001F0728 /* UIKit-SwiftUI.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -61,9 +61,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		3C1810742CEE51F5001F0728 /* UIKit-SwiftUI UIKit + SwiftUI UIKit + SwiftUI UIKit-SwiftUI */ = {
+		3C1810742CEE51F5001F0728 /* UIKit-SwiftUI */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3C1810882CEE51F8001F0728 /* Build configuration list for PBXNativeTarget "UIKit-SwiftUI UIKit + SwiftUI UIKit + SwiftUI UIKit-SwiftUI" */;
+			buildConfigurationList = 3C1810882CEE51F8001F0728 /* Build configuration list for PBXNativeTarget "UIKit-SwiftUI" */;
 			buildPhases = (
 				3C1810712CEE51F5001F0728 /* Sources */,
 				3C1810722CEE51F5001F0728 /* Frameworks */,
@@ -74,13 +74,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				3C1810772CEE51F5001F0728 /* UIKit-SwiftUI UIKit + SwiftUI UIKit + SwiftUI UIKit-SwiftUI */,
+				3C1810772CEE51F5001F0728 /* UIKit-SwiftUI */,
 			);
-			name = "UIKit-SwiftUI UIKit + SwiftUI UIKit + SwiftUI UIKit-SwiftUI";
+			name = "UIKit-SwiftUI";
 			packageProductDependencies = (
 			);
 			productName = "UIKit-SwiftUI UIKit + SwiftUI UIKit + SwiftUI UIKit-SwiftUI";
-			productReference = 3C1810752CEE51F5001F0728 /* UIKit-SwiftUI UIKit + SwiftUI UIKit + SwiftUI UIKit-SwiftUI.app */;
+			productReference = 3C1810752CEE51F5001F0728 /* UIKit-SwiftUI.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -98,7 +98,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 3C1810702CEE51F5001F0728 /* Build configuration list for PBXProject "UIKit-SwiftUI UIKit + SwiftUI UIKit + SwiftUI UIKit-SwiftUI" */;
+			buildConfigurationList = 3C1810702CEE51F5001F0728 /* Build configuration list for PBXProject "UIKit-SwiftUI" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -112,7 +112,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3C1810742CEE51F5001F0728 /* UIKit-SwiftUI UIKit + SwiftUI UIKit + SwiftUI UIKit-SwiftUI */,
+				3C1810742CEE51F5001F0728 /* UIKit-SwiftUI */,
 			);
 		};
 /* End PBXProject section */
@@ -153,12 +153,13 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "ru.yandex.practicum.UIKit-SwiftUI-UIKit---SwiftUI-UIKit---SwiftUI-UIKit-SwiftUI";
+				PRODUCT_BUNDLE_IDENTIFIER = "ru.yandex.practicum.UIKit-SwiftUI";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -181,12 +182,13 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "ru.yandex.practicum.UIKit-SwiftUI-UIKit---SwiftUI-UIKit---SwiftUI-UIKit-SwiftUI";
+				PRODUCT_BUNDLE_IDENTIFIER = "ru.yandex.practicum.UIKit-SwiftUI";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -246,7 +248,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
@@ -303,7 +305,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
@@ -316,7 +318,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3C1810702CEE51F5001F0728 /* Build configuration list for PBXProject "UIKit-SwiftUI UIKit + SwiftUI UIKit + SwiftUI UIKit-SwiftUI" */ = {
+		3C1810702CEE51F5001F0728 /* Build configuration list for PBXProject "UIKit-SwiftUI" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3C18108B2CEE51F8001F0728 /* Debug */,
@@ -325,7 +327,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3C1810882CEE51F8001F0728 /* Build configuration list for PBXNativeTarget "UIKit-SwiftUI UIKit + SwiftUI UIKit + SwiftUI UIKit-SwiftUI" */ = {
+		3C1810882CEE51F8001F0728 /* Build configuration list for PBXNativeTarget "UIKit-SwiftUI" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3C1810892CEE51F8001F0728 /* Debug */,
