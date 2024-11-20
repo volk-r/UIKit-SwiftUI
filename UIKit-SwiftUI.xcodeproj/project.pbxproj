@@ -14,7 +14,7 @@
 		3C1810872CEE51F8001F0728 /* Exceptions for "UIKit-SwiftUI" folder in "UIKit-SwiftUI" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Info.plist,
+				SystemFiles/Info.plist,
 			);
 			target = 3C1810742CEE51F5001F0728 /* UIKit-SwiftUI */;
 		};
@@ -147,7 +147,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 3T4L6EX6TF;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "UIKit-SwiftUI UIKit + SwiftUI UIKit + SwiftUI UIKit-SwiftUI/Info.plist";
+				INFOPLIST_FILE = "UIKit-SwiftUI/SystemFiles/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -176,7 +176,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 3T4L6EX6TF;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "UIKit-SwiftUI UIKit + SwiftUI UIKit + SwiftUI UIKit-SwiftUI/Info.plist";
+				INFOPLIST_FILE = "UIKit-SwiftUI/SystemFiles/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;

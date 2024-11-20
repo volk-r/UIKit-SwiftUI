@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  UIKit-SwiftUI UIKit + SwiftUI UIKit + SwiftUI UIKit-SwiftUI
+//  UIKit-SwiftUI
 //
 //  Created by Roman Romanov on 20.11.2024.
 //

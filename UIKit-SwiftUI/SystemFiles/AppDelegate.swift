@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  UIKit-SwiftUI UIKit + SwiftUI UIKit + SwiftUI UIKit-SwiftUI
+//  UIKit-SwiftUI
 //
 //  Created by Roman Romanov on 20.11.2024.
 //
@@ -9,8 +9,6 @@ import UIKit
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
-
-
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
